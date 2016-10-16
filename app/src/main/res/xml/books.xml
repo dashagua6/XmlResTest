@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book price = "109.0" 出版日期="2008年">疯狂Java讲义</book>
+    <book price = "109.4" 出版日期="2009年">疯狂android讲义</book>
+    <book price = "109.6" 出版日期="2018年">疯狂Ajax讲义</book>
+</books>
